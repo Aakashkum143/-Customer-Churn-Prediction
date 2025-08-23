@@ -87,5 +87,5 @@ This model empowers organizations to design targeted campaigns, enhance customer
 
 
 📬 Contact
-For collaboration or queries: Shreysth Goyal 📧 [shreysthkumar@gmail.com]
+For collaboration or queries: Shreysth Goyal 📧 [akashkumar68751@gmail.com]
 
