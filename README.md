@@ -1,4 +1,4 @@
-# 🔍 ChurnVision: Telecom Customer Churn Prediction
+# 🔍 SmartChurn Analytics
 
 In today's hyper-competitive digital landscape, customer retention is more critical than ever. This project presents a data-driven approach to identifying customers who are at risk of churning—leaving the service. By leveraging powerful machine learning techniques, we aim to develop a predictive model that can anticipate churn behavior, allowing businesses to take proactive steps toward enhancing loyalty, improving satisfaction, and reducing customer attrition.
 
@@ -84,6 +84,7 @@ This model empowers organizations to design targeted campaigns, enhance customer
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
+
 
 
 📬 Contact
